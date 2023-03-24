@@ -1,0 +1,5 @@
+const words = ["apple", "banana", "cat", "dog", "elephant"];
+
+words.sort();
+
+console.log(words);
